@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherChecker</string>
+    <string name="weather_app_key">44534c0b4792d659833832a3af0b6f34</string>
+    <string name="fragment_main_tag">MainFragment</string>
+    <string name="base_url">http://api.openweathermap.org/data/2.5/</string>
+    <string name="open_weather_api_key">44534c0b4792d659833832a3af0b6f34</string>
+    <string name="error_string_no_internet_connection">No internet connection!</string>
+    <string name="temp_info">%1$s°C</string>
+    <string name="icon_url">http://openweathermap.org/img/w/%1$s.png</string>
+</resources>
